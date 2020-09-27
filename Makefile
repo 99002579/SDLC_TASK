@@ -16,7 +16,7 @@ test/test_calculator_operations.c
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # All include folders with header files
-INC	= -Iinc
+HEAD	= -Ihead
 
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
 
